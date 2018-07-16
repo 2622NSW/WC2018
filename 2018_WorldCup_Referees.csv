@@ -1,0 +1,65 @@
+GameID,Referee,Country,Game,PlayingTime,Goals,Fouls,YCards,RCards,GameTime
+1,Nestor Pitana,Argentina,Russia v Saudi Arabia,57,5,32,2,0,01:36:48
+2,Bjorn Kuipers,Netherlands,Egypt v Uruguay,64,1,18,1,0,01:37:21
+3,Cuneyt Cakir,Turkey,Morocco v Iran,45,1,36,4,0,01:38:07
+4,Gianluca Rocchi,Italy,Portugal v Spain,58,6,22,2,0,01:35:58
+5,Andres Cunha,Uruguay,France v Ausralia,58,3,35,4,0,01:36:36
+6,Szymon Marciniak,Poland,Argentina v Iceland,62,2,25,0,0,01:36:19
+7,Bakary Gassama,Gambia,Peru v Denmark,53,1,28,3,0,01:38:10
+8,Sando Ricci,Brazil,Croatia v Nigeria,56,2,36,3,0,01:36:04
+9,Cesar Ramos,Mexico,Brazil v Switzerland,62,2,31,4,0,01:38:57
+10,Malang Diedhiou,Senegal,Costa Rica v Serbia,58,1,33,4,0,01:39:42
+11,Alireza Faghani,Iran,Germany v Mexico,56,1,25,4,0,01:34:13
+12,Joel Aguilar,Salvador,Sweden v Korea,53,1,43,3,0,01:36:26
+13,Janny Sikazwe,Zambia,Belgium v Panama,55,3,35,8,0,01:36:15
+14,Wilmar Roldan,Columbia,Tunisia v England,49,3,22,1,0,01:37:17
+15,Nawaf Shukralla,Bahrain,Poland v Senegal,55,3,23,3,0,01:36:36
+16,Damir Skomina,Slovenia,Colombia v Japan,59,3,24,3,1,01:36:12
+17,Enrique Caceres,Paraguay,Russia v Egypt,53,4,21,2,0,01:34:14
+18,Clement Turpin,France,Uruguay v Saudi Arabia,60,1,23,0,0,01:36:07
+19,Mark Geiger,USA,Portugal v Morocco,53,1,42,2,0,01:38:08
+20,Andres Cunha,Uruguay,Iran v Spain,53,1,28,2,0,01:37:17
+21,Mohammed Abdulla,UAE,France v Peru,57,1,26,4,0,01:36:33
+22,Mateu Lahoz,Spain,Denmark v Australia,61,2,12,2,0,01:35:17
+23,Ravshan Irmatov,Uzbekistan,Argentina v Croatia,52,3,38,7,0,01:36:15
+24,Matthew Conger,New Zealand,Nigeria v Iceland,53,2,19,1,0,01:38:37
+25,Bjorn Kuipers,Netherlands,Brazil v Costa Rica,64,2,21,3,0,01:39:00
+26,Felix Brych,Germany,Serbia v Switzerland,56,3,29,5,0,01:37:59
+27,Szymon Marciniak,Poland,Germany v Sweden,60,3,25,3,1,01:39:11
+28,Milorad Mazic,Serbia,Korea v Mexico,52,3,31,4,0,01:36:51
+29,Jair Marrufo,USA,Belgium v Tunisia,56,7,25,1,0,01:37:22
+30,Ghead Grisha,Egypt,England v Panama,54,7,27,4,0,01:37:34
+31,Cesar Ramos,Mexico,Poland v Colombia,57,3,25,2,0,01:39:13
+32,Gianluca Rocchi,Italy,Japan v Senegal,51,4,22,5,0,01:35:02
+33,Malang Diedhiou,Senegal,Uruguay v Russia,50,3,35,2,1,01:36:52
+34,Wilmar Roldan,Columbia,Saudi Arabia v Egypt,61,3,23,2,0,01:42:14
+35,Enrique Caceres,Paraguay,Iran v Portugal,50,2,27,6,0,01:40:21
+36,Ravshan Irmatov,Uzbekistan,Spain v Morocco,57,4,22,6,0,01:39:00
+37,Sando Ricci,Brazil,Denmark v France,61,0,20,1,0,01:35:42
+38,Sergei Karasev,Russia,Australia v Peru,56,2,25,6,0,01:35:09
+39,Cuneyt Cakir,Turkey,Nigeria v Argentina,52,3,35,5,0,01:36:38
+40,Antonio Lahoz,Spain,Iceland v Croatia,51,3,22,5,0,01:36:19
+41,Alireza Faghani,Iran,Serbia v Brazil,64,2,20,3,0,01:35:04
+42,Clement Turpin,France,Switzerland v Costa Rica,59,4,23,6,0,01:36:31
+43,Mark Geiger,USA,Korea v Germany,62,2,23,4,0,01:42:26
+44,Nestor Pitana,Argentina,Mexico v Sweden,50,3,25,5,0,01:36:23
+45,Damir Skomina,Slovenia,Engalnd v Belgium,60,1,25,2,0,01:33:18
+46,Nawaf Shukralla,Bahrain,Panama v Tunisia,54,3,37,6,0,01:39:39
+47,Janny Sikazwe,Zambia,Japan v Poland,59,1,19,1,0,01:34:09
+48,Milorad Mazic,Serbia,Senegal v Colombia,50,1,30,2,0,01:37:08
+49,Alireza Faghani,Iran,France v Argentina,54,7,36,8,0,01:36:59
+50,Cesar Ramos,Mexico,Uruguay v Portugal,57,3,26,1,0,01:38:07
+51,Bjorn Kuipers,Netherlands,Spain v Russia,81,2,24,3,0,02:08:24
+52,Nestor Pitana,Argentina,Croatia v Denmark,75,2,24,1,0,02:07:40
+53,Gianluca Rocchi,Italy,Brazil v Mexico,58,2,24,6,0,01:36:08
+54,Malang Diedhiou,Senegal,Belgium v Japan,61,5,22,1,0,01:36:18
+55,Damir Skomina,Slovenia,Sweden v Switzerland,55,1,24,3,1,01:37:31
+56,Mark Geiger,USA,Colombia v England,69,2,36,8,0,02:13:30
+57,Nestor Pitana,Argentina,Uruguay v France,52,2,32,4,0,01:37:10
+58,Milorad Mazic,Serbia,Brazil v Belgium,61,3,30,4,0,01:36:12
+59,Bjorn Kuipers,Netherlands,Sweden v England,57,2,17,3,0,01:36:21
+60,Sando Ricci,Brazil,Russia v Croatia,74,4,43,5,0,02:11:00
+61,Andres Cunha,Uruguay,France v Belgium,60,1,22,5,0,01:37:16
+62,Cuneyt Cakir,Turkey,Croatia v England,70,3,37,3,0,02:12:19
+63,Alireza Faghani,Iran,Belgium v England,68,2,16,3,0,01:35:09
+64,Nestor Pitana,Argentina,France v Croatia,53,6,27,3,0,01:38:29

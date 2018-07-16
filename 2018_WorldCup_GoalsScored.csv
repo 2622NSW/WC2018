@@ -1,0 +1,170 @@
+Goal,GameID,Scorer,Time ,Country,Opponent,Note
+1,1,Gazinski,12,Russia,Saudi Arabia,
+2,1,Cheryshev,43,Russia,Saudi Arabia,
+3,1,Dzyuba,71,Russia,Saudi Arabia,
+4,1,Cheryshev,90+1,Russia,Saudi Arabia,
+5,1,Golovin,90+4,Russia,Saudi Arabia,
+6,2,Gimenez,89,Uruguay,Egypt,
+7,3,Bouhaddouz,90+5,Iran,Morocco,Own goal
+8,4,Ronaldo,4,Portugal,Spain,Penalty
+9,4,Diego Costa,24,Spain,Portugal,
+10,4,Ronaldo,44,Portugal,Spain,
+11,4,Diego Costa,55,Spain,Portugal,
+12,4,Nacho,58,Spain,Portugal,
+13,4,Ronaldo,88,Portugal,Spain,
+14,5,Griezmann,58,France,Australia,Penalty
+15,5,Jedinak,62,Australia,France,Penalty 
+16,5,Behich,81,France,Australia,Own goal
+17,6,Aguero,19,Argentina,Iceland,
+18,6,Finnbogason,23,Iceland,Argentina,
+19,7,Yurary,59,Denmark,Peru,
+20,8,Etebo,32,Croatia,Nigeria,Own goal
+21,8,Modric,71,Croatia,Nigeria,Penalty
+22,9,Coutinho,20,Brazil,Switzerland,
+23,9,Zuber,50,Switzerland,Brazil,
+24,10,Kolarov,56,Serbia,Costa Rica,
+25,11,Lozano,35,Mexico,Germany,
+26,12,Granqvist,65,Sweden,Korea,Penalty
+27,13,Mertens,47,Belgium,Panama,
+28,13,Lukaku,69,Belgium,Panama,
+29,13,Lukaku,75,Belgium,Panama,
+30,14,Kane,11,England,Tunisia,
+31,14,Sassi,35,Tunisia,England,Penalty 
+32,14,Kane,90+1,England,Tunisia,
+33,15,Cionek,37,Senegal,Poland,Own goal
+34,15,Niang,60,Senegal,Poland,
+35,15,Krychowiak,86,Poland,Senegal,
+36,16,Kagawa,6,Japan,Colombia,Penalty
+37,16,Quintero,39,Colombia,Japan, 
+38,16,Osako,73,Japan,Colombia,
+39,17,Fathi,47,Russia,Egypt,Own goal
+40,17,Cheryshev,59,Russia,Egypt,
+41,17,Dzyuba,62,Russia,Egypt,
+42,17,Salah,73,Egypt,Russia,Penalty
+43,18,Suarez,23,Uruguay,Saudi Arabia,
+44,19,Ronaldo,4,Portugal,Morocco,
+45,20,Costa,54,Spain,Iran,
+46,21,Mbappe,34,France,Peru,
+47,22,Eriksen,7,Denmark,Australia,
+48,22,Jedinak,38,Australia,Denmark,Penalty
+49,23,Rebic,53,Croatia,Argentina,
+50,23,Modric,80,Croatia,Argentina,
+51,23,Rakitic,90+1,Croatia,Argentina,
+52,24,Musa,49,Nigeria,Iceland,
+53,24,Musa,75,Nigeria,Iceland,
+54,25,Coutinho,90+1,Brazil,Costa Rica,
+55,25,Neymar,90+7,Brazil,Costa Rica,
+56,26,Moitorovic,5,Serbia,Switzerland,
+57,26,Xhaka,52,Switzerland,Serbia,
+58,26,Shaqiri,90,Switzerland,Serbia,
+59,27,Toivonen,32,Sweden,Germany,
+60,27,Reus,48,Germany,Sweden,
+61,27,Kroos,90+5,Germany,Sweden,
+62,28,Carlos,26,Mexico,Korea,Penalty
+63,28,Hernandez,66,Mexico,Korea,
+64,28,Son,90+3,Korea,Mexico,
+65,29,Hazard,6,Belgium,Tunisia,Penalty
+66,29,Lukaku,16,Belgium,Tunisia,
+67,29,Bronn,18,Tunisia,Belgium,
+68,29,Lukaku,45+3,Belgium,Tunisia,
+69,29,Hazard,51,Belgium,Tunisia,
+70,29,Batshuayi,90,Belgium,Tunisia,
+71,29,Khazari,90+3,Tunisia,Belgium,
+72,30,Stones,8,England ,Panama,
+73,30,Kane,22,England,Panama,Penalty
+74,30,Lingard,36,England,Panama,
+75,30,Stones,40,England,Panama,
+76,30,Kane,45+1,England,Panama,Penalty
+77,30,Kane,62,England,Panama,
+78,30,Baloy,78,Panama,England,
+79,31,Mina,40,Colombia,Poland,
+80,31,Falcao,70,Colombia,Poland,
+81,31,Cuadrado,75,Colombia,Poland,
+82,32,Mane,11,Senegal,Japan,
+83,32,Inui,34,Japan,Senegal,
+84,32,Wague,71,Senegal,Japan,
+85,32,Hinda,78,Japan,Senegal,
+86,33,Suarez,10,Uruguay,Russia,
+87,33,Cheryshev,23,Uruguay,Russia,Own goal
+88,33,Cavani,90,Uruguay,Russia,
+89,34,Salah,22,Egypt,Saudi Arabia,
+90,34,Salman,45+6,Saudi Arabia,Egypt,Penalty
+91,34,Salem,90+5,Saudi Arabia,Egypt,
+92,35,Quaresma,45,Portugal,Iran,
+93,35,Karim,90+3,Iran,Portugal,Penalty
+94,36,Boutaib,14,Morocco,Spain,
+95,36,Isco,19,Spain,Morocco,
+96,36,En-Nesyri,81,Morocco,Spain,
+97,36,Aspas,90+1,Spain,Morocco,
+98,38,Carrillo,18,Peru,Australia,
+99,38,Guerro,50,Peru,Australia,
+100,39,Messi,14,Argentina,Nigeria,
+101,39,Moses,51,Nigeria,Argentina,Penalty
+102,39,Marcos Rojo,86,Argentina,Nigeria,
+103,40,Badelj,53,Croatia,Iceland,
+104,40,Sigurdsson,76,Iceland,Croatia,Penalty
+105,40,Perisic,90,Croatia,Iceland,
+106,41,Paulinho,36,Brazil,Serbia,
+107,41,Silva,68,Brazil,Serbia,
+108,42,Dzemaili,31,Switzerland,Costa Rica,
+109,42,Waston,56,Costa Rica,Switzerland,
+110,42,Drmic,88,Switzerland,Costa Rica,
+111,42,Sommer,90+3,Costa Rica,Switzerland,Own goal
+112,43,Y G Kim,90+3,Korea,Germany,
+113,43,H M Son,90+6,Korea,Germany,
+114,44,Augustinsson,50,Sweden,Mexico,
+115,44,Granquvist,62,Sweden,Mexico,Penalty
+116,44,Alvarez,74,Sweden,Mexico,Own goal
+117,45,Jauzaj,51,Belgium,England,
+118,46,Meriah,33,Panama,Tunisia,Own goal
+119,46,Ben Yossef,51,Tunisia,Panama,
+120,46,Khazari,66,Tunisia,Panama,
+121,47,Bednarek,59,Poland,Japan,
+122,48,Mina,74,Colombia,Senegal,
+123,49,Griezmann,13,France,Argentina,Penalty
+124,49,Di Maria,41,Argentina,France, 
+125,49,Mercardo,48,Argentina,France,
+126,49,Pavard,57,France,Argentina, 
+127,49,Mbappe,64,France,Argentina,
+128,49,Mbappe,68,France,Argentina,
+129,49,Aguero,90+3,Argentina,France,
+130,50,Cavani,7,Uruguay,Portugal,
+131,50,Pepe,55,Portugal,Uruguay, 
+132,50,Cavani,62,Uruguay,Portugal,
+133,51,Ignashevich,12,Spain,Russia,Own goal
+134,51,Dzyuba,41,Russia,Spain,Penalty
+135,52,Jorgensen,1,Denmark,Croatia,
+136,52,Mandzukic,4,Croatia,Denmark, 
+137,53,Neymar,51,Brazil,Mexico,
+138,53,Firmino,88,Brazil,Mexico,
+139,54,Haraguchi,48,Japan,Belgium,
+140,54,Inui,52,Japan,Belgium,
+141,54,Vertonghen,69,Belgium,Japan,
+142,54,Fellaini,74,Belgium,Japan,
+143,54,Chadli,90+4,Belgium,Japan,
+144,55,Forsberg,66,Sweden,Switzerland,
+145,56,Kane,57,England,Columbia,Penalty
+146,56,Mina,90+3,Colombia,England,
+147,57,Varane,40,France,Uruguay,
+148,57,Griezmann,61,France,Uruguay,
+149,58,Fernandinho,13,Belgium,Brazil,Own goal
+150,58,De Bruyne,31,Belgium,Brazil,
+151,58,Augusto,76,Brazil,Belgium,
+152,59,Maguire,30,England,Sweden,
+153,59,Dele,59,England,Sweden,
+154,60,Cheryshev,31,Russia,Croatia,
+155,60,Kramaric,39,Croatia,Russia,
+156,60,Vida,101,Croatia,Russia,
+157,60,Fernandes,115,Russia,Croatia,
+158,61,Umtiti,51,France,Belgium,
+159,62,Trippier,5,England,Croatia,
+160,62,Perisic,68,Croatia,England,
+161,62,Mandzukic,109,Croatia,England,
+162,63,Meunier,4,Belgium,England,
+163,63,Hazard,82,Belgium,England,
+164,64,Mandzukic,18,France,Croatia,Own goal
+165,64,Perisic,28,Croatia,France,
+166,64,Griezmann,38,France,Croatia,Penalty
+167,64,Pogba,59,France,Croatia,
+168,64,Mbappe,65,France,Croatia,
+169,64,Mandzukic,69,Croatia,France,
